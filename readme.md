@@ -26,6 +26,17 @@ Train a simple machine learning model to classify document types like Invoice, R
 Used synthetic data for demonstration. You can replace it with an open-source dataset like:
 - [Document Classification Dataset on Kaggle](https://www.kaggle.com/)
 
+#### Requirements
+
+- Create a virtual environments using below commands
+- mkdir project_name
+- cd project_name
+- python -m venv .gbm
+- source .gbm/bin/activate
+
+- then run below commands
+- bash pip install -r requirements.txt
+
 #### Preprocessing
 
 - Removed punctuation, digits, and URLs
@@ -41,6 +52,7 @@ Used synthetic data for demonstration. You can replace it with an open-source da
 - FastAPI backend with prediction and HTML form endpoints
 - HTML + CSS UI to classify text documents
 - Swagger UI available at /docs
+
 
 #### Running the App
 
@@ -58,17 +70,6 @@ Used synthetic data for demonstration. You can replace it with an open-source da
 Example classification report with synthetic data:
 - Accuracy ~90%
 - Performs well on distinct keywords
-
-#### Requirements
-
-- Create a virtual environments using below commands
-- mkdir project_name
-- cd project_name
-- python -m venv .gbm
-- source .gbm/bin/activate
-
-- then run below commands
-- bash pip install -r requirements.txt
 
 
 ## Thank you
