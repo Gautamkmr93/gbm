@@ -4,10 +4,10 @@
 
 #### Aim
 - This project processes raw email text files which i have download from (https://www.cs.cmu.edu/~enron/), extracts relevant metadata (from, subject, body), cleans the email content, and classifies them into predefined categories using simple keyword-based matching below are the list for key words :
-    "Market/Finance": ["chart", "matrix", "api", "crude", "stocks", "transactions", "amount", "finance"],
-    "HR/Admin": ["calendar", "ranked", "play", "camp", "paperwork", "update", "Y", "schedule"],
-    "Personal": ["love", "hello", "thankful", "sorry", "greg", "personal"],
-    "Technical": ["delivery point", "website", "server", "ECA", "records", "data"]
+- "Market/Finance": ["chart", "matrix", "api", "crude", "stocks", "transactions", "amount", "finance"],
+- "HR/Admin": ["calendar", "ranked", "play", "camp", "paperwork", "update", "Y", "schedule"],
+- "Personal": ["love", "hello", "thankful", "sorry", "greg", "personal"],
+- "Technical": ["delivery point", "website", "server", "ECA", "records", "data"]
 
 - JSON Output: Exports cleaned and categorized emails into output_file.json
 
