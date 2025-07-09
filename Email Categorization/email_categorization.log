@@ -1,0 +1,160 @@
+2025-07-10 00:08:24,001 - INFO - cleanning the email body.
+2025-07-10 00:08:24,002 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,002 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/.DS_Store
+2025-07-10 00:08:24,002 - INFO - cleanning the email body.
+2025-07-10 00:08:24,002 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,002 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/134.
+2025-07-10 00:08:24,003 - INFO - cleanning the email body.
+2025-07-10 00:08:24,003 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,003 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/122.
+2025-07-10 00:08:24,003 - INFO - cleanning the email body.
+2025-07-10 00:08:24,003 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,003 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/90.
+2025-07-10 00:08:24,004 - INFO - cleanning the email body.
+2025-07-10 00:08:24,004 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,004 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/47.
+2025-07-10 00:08:24,004 - INFO - cleanning the email body.
+2025-07-10 00:08:24,004 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,004 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/88.
+2025-07-10 00:08:24,004 - INFO - cleanning the email body.
+2025-07-10 00:08:24,004 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,005 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/26.
+2025-07-10 00:08:24,005 - INFO - cleanning the email body.
+2025-07-10 00:08:24,005 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,005 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/1.
+2025-07-10 00:08:24,005 - INFO - cleanning the email body.
+2025-07-10 00:08:24,005 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,005 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/101.
+2025-07-10 00:08:24,005 - INFO - cleanning the email body.
+2025-07-10 00:08:24,005 - INFO - Email body cleaned successfully.
+2025-07-10 00:08:24,005 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/2.
+2025-07-10 00:08:24,005 - INFO - Processing complete. 10 files processed, 0 files skipped. Output saved to Intermediate.json
+2025-07-10 00:08:24,005 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'HR/Admin' using keyword 'camp'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'HR/Admin' using keyword 'ranked'
+2025-07-10 00:08:24,005 - INFO - Email classified as 'Market/Finance' using keyword 'transactions'
+2025-07-10 00:09:22,041 - INFO - cleanning the email body.
+2025-07-10 00:09:22,042 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,042 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/.DS_Store
+2025-07-10 00:09:22,042 - INFO - cleanning the email body.
+2025-07-10 00:09:22,042 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,042 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/134.
+2025-07-10 00:09:22,043 - INFO - cleanning the email body.
+2025-07-10 00:09:22,043 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,043 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/122.
+2025-07-10 00:09:22,043 - INFO - cleanning the email body.
+2025-07-10 00:09:22,043 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,043 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/90.
+2025-07-10 00:09:22,044 - INFO - cleanning the email body.
+2025-07-10 00:09:22,044 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,044 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/47.
+2025-07-10 00:09:22,044 - INFO - cleanning the email body.
+2025-07-10 00:09:22,044 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,044 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/88.
+2025-07-10 00:09:22,044 - INFO - cleanning the email body.
+2025-07-10 00:09:22,044 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,044 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/26.
+2025-07-10 00:09:22,045 - INFO - cleanning the email body.
+2025-07-10 00:09:22,045 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,045 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/1.
+2025-07-10 00:09:22,045 - INFO - cleanning the email body.
+2025-07-10 00:09:22,045 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,045 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/101.
+2025-07-10 00:09:22,045 - INFO - cleanning the email body.
+2025-07-10 00:09:22,045 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:22,045 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/2.
+2025-07-10 00:09:22,045 - INFO - Processing complete. 10 files processed, 0 files skipped. Output saved to Intermediate.json
+2025-07-10 00:09:22,045 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'HR/Admin' using keyword 'camp'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'HR/Admin' using keyword 'ranked'
+2025-07-10 00:09:22,045 - INFO - Email classified as 'Market/Finance' using keyword 'transactions'
+2025-07-10 00:09:39,249 - INFO - cleanning the email body.
+2025-07-10 00:09:39,250 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,250 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/.DS_Store
+2025-07-10 00:09:39,250 - INFO - cleanning the email body.
+2025-07-10 00:09:39,250 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,250 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/134.
+2025-07-10 00:09:39,250 - INFO - cleanning the email body.
+2025-07-10 00:09:39,250 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,250 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/122.
+2025-07-10 00:09:39,250 - INFO - cleanning the email body.
+2025-07-10 00:09:39,251 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,251 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/90.
+2025-07-10 00:09:39,251 - INFO - cleanning the email body.
+2025-07-10 00:09:39,251 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,251 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/47.
+2025-07-10 00:09:39,251 - INFO - cleanning the email body.
+2025-07-10 00:09:39,251 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,251 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/88.
+2025-07-10 00:09:39,251 - INFO - cleanning the email body.
+2025-07-10 00:09:39,251 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,251 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/26.
+2025-07-10 00:09:39,251 - INFO - cleanning the email body.
+2025-07-10 00:09:39,251 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,251 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/1.
+2025-07-10 00:09:39,251 - INFO - cleanning the email body.
+2025-07-10 00:09:39,251 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,251 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/101.
+2025-07-10 00:09:39,251 - INFO - cleanning the email body.
+2025-07-10 00:09:39,252 - INFO - Email body cleaned successfully.
+2025-07-10 00:09:39,252 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/2.
+2025-07-10 00:09:39,252 - INFO - Processing complete. 10 files processed, 0 files skipped. Output saved to Intermediate.json
+2025-07-10 00:09:39,252 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'HR/Admin' using keyword 'camp'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'HR/Admin' using keyword 'ranked'
+2025-07-10 00:09:39,252 - INFO - Email classified as 'Market/Finance' using keyword 'transactions'
+2025-07-10 00:13:11,914 - INFO - cleanning the email body.
+2025-07-10 00:13:11,915 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,915 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/.DS_Store
+2025-07-10 00:13:11,915 - INFO - cleanning the email body.
+2025-07-10 00:13:11,915 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,915 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/134.
+2025-07-10 00:13:11,915 - INFO - cleanning the email body.
+2025-07-10 00:13:11,916 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,916 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/122.
+2025-07-10 00:13:11,916 - INFO - cleanning the email body.
+2025-07-10 00:13:11,916 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,916 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/90.
+2025-07-10 00:13:11,917 - INFO - cleanning the email body.
+2025-07-10 00:13:11,917 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,917 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/47.
+2025-07-10 00:13:11,917 - INFO - cleanning the email body.
+2025-07-10 00:13:11,917 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,917 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/88.
+2025-07-10 00:13:11,917 - INFO - cleanning the email body.
+2025-07-10 00:13:11,917 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,917 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/26.
+2025-07-10 00:13:11,918 - INFO - cleanning the email body.
+2025-07-10 00:13:11,918 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,918 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/1.
+2025-07-10 00:13:11,918 - INFO - cleanning the email body.
+2025-07-10 00:13:11,918 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,918 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/101.
+2025-07-10 00:13:11,918 - INFO - cleanning the email body.
+2025-07-10 00:13:11,918 - INFO - Email body cleaned successfully.
+2025-07-10 00:13:11,918 - INFO - Successfully extracted email data from: /Users/gautamkumar/Desktop/GBM/Email Categorization/Emails/2.
+2025-07-10 00:13:11,918 - INFO - Processing complete. 10 files processed, 0 files skipped. Output saved to Intermediate.json
+2025-07-10 00:13:11,918 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:13:11,918 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:13:11,918 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:13:11,918 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:13:11,918 - INFO - Email classified as 'Market/Finance' using keyword 'chart'
+2025-07-10 00:13:11,918 - INFO - Email classified as 'HR/Admin' using keyword 'camp'
+2025-07-10 00:13:11,919 - INFO - Email classified as 'HR/Admin' using keyword 'Y'
+2025-07-10 00:13:11,919 - INFO - Email classified as 'HR/Admin' using keyword 'ranked'
+2025-07-10 00:13:11,919 - INFO - Email classified as 'Market/Finance' using keyword 'transactions'

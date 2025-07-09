@@ -1,0 +1,152 @@
+2025-07-10 01:31:32,827 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 01:31:32,827 - INFO - preprocessing of labels and text.
+2025-07-10 01:31:32,832 - INFO - Preprocessing completed.
+2025-07-10 01:31:32,832 - INFO - Prepared data with 5485 samples.
+2025-07-10 01:31:32,833 - ERROR - Error during max_features optimization: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+Traceback (most recent call last):
+  File "/Users/gautamkumar/Desktop/GBM/Document Type Classifier/create_model.py", line 73, in find_best_max_features
+    if not X or not y:
+           ^
+  File "/Users/gautamkumar/Desktop/GBM/.gbm/lib/python3.12/site-packages/pandas/core/generic.py", line 1577, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-07-10 01:33:52,754 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 01:33:52,754 - INFO - preprocessing of labels and text.
+2025-07-10 01:33:52,759 - INFO - Preprocessing completed.
+2025-07-10 01:33:52,759 - INFO - Prepared data with 5485 samples.
+2025-07-10 01:33:52,760 - INFO - Starting max_features tuning...
+2025-07-10 01:33:52,870 - ERROR - Error during max_features optimization: name 'LogisticRegression' is not defined
+Traceback (most recent call last):
+  File "/Users/gautamkumar/Desktop/GBM/Document Type Classifier/create_model.py", line 88, in find_best_max_features
+    model = LogisticRegression(max_iter=1000)
+            ^^^^^^^^^^^^^^^^^^
+NameError: name 'LogisticRegression' is not defined
+2025-07-10 01:34:28,948 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 01:34:28,949 - INFO - preprocessing of labels and text.
+2025-07-10 01:34:28,954 - INFO - Preprocessing completed.
+2025-07-10 01:34:28,954 - INFO - Prepared data with 5485 samples.
+2025-07-10 01:34:28,955 - INFO - Starting max_features tuning...
+2025-07-10 01:34:30,277 - INFO - Best max_features: 1000 with average accuracy 0.9558
+2025-07-10 01:34:30,410 - INFO - Starting model training and evaluation...
+2025-07-10 01:34:30,410 - INFO - Training Model: Random Forest
+2025-07-10 01:34:31,046 - INFO - Evaluation metrics for model RandomForestClassifier: {'Accuracy': 0.9489516864175023, 'F1 Score': 0.9489428939558119, 'Precision': 0.9510117975557333, 'Recall': 0.9489516864175023}
+2025-07-10 01:34:39,588 - INFO - 
+Classification Report for RandomForestClassifier:
+              precision    recall  f1-score   support
+
+           0       0.99      0.96      0.97       556
+           1       0.90      0.98      0.94       323
+           2       0.93      0.94      0.94        54
+           3       1.00      0.80      0.89        20
+           4       1.00      0.89      0.94         9
+           5       0.92      0.89      0.90        53
+           6       0.91      0.79      0.85        38
+           7       0.91      0.91      0.91        44
+
+    accuracy                           0.95      1097
+   macro avg       0.94      0.89      0.92      1097
+weighted avg       0.95      0.95      0.95      1097
+
+2025-07-10 01:34:39,588 - INFO - Evaluation metrics for Random Forest: {'Accuracy': 0.9489516864175023, 'F1 Score': 0.9489428939558119, 'Precision': 0.9510117975557333, 'Recall': 0.9489516864175023}
+2025-07-10 01:49:31,289 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 01:49:31,290 - INFO - preprocessing of labels and text.
+2025-07-10 01:49:31,294 - INFO - Preprocessing completed.
+2025-07-10 01:49:31,294 - INFO - Prepared data with 5485 samples.
+2025-07-10 01:49:31,295 - INFO - Starting max_features tuning...
+2025-07-10 01:49:32,605 - INFO - Best max_features: 1000 with average accuracy 0.9558
+2025-07-10 01:49:32,737 - INFO - Starting model training and evaluation...
+2025-07-10 01:49:32,737 - INFO - Training Model: Random Forest
+2025-07-10 01:49:33,338 - INFO - Model saved as 'document_classifier.pkl'
+2025-07-10 01:49:33,386 - INFO - Evaluation metrics for model RandomForestClassifier: {'Accuracy': 0.9425706472196901, 'F1 Score': 0.9424350903012308, 'Precision': 0.9444707115814261, 'Recall': 0.9425706472196901}
+2025-07-10 01:49:37,914 - INFO - 
+Classification Report for RandomForestClassifier:
+              precision    recall  f1-score   support
+
+           0       0.99      0.96      0.98       556
+           1       0.89      0.98      0.93       323
+           2       0.93      0.94      0.94        54
+           3       0.94      0.80      0.86        20
+           4       1.00      0.89      0.94         9
+           5       0.90      0.87      0.88        53
+           6       0.88      0.74      0.80        38
+           7       0.86      0.84      0.85        44
+
+    accuracy                           0.94      1097
+   macro avg       0.92      0.88      0.90      1097
+weighted avg       0.94      0.94      0.94      1097
+
+2025-07-10 01:49:37,914 - INFO - Evaluation metrics for Random Forest: {'Accuracy': 0.9425706472196901, 'F1 Score': 0.9424350903012308, 'Precision': 0.9444707115814261, 'Recall': 0.9425706472196901}
+2025-07-10 01:57:55,900 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 01:57:55,901 - INFO - preprocessing of labels and text.
+2025-07-10 01:57:55,904 - INFO - Preprocessing completed.
+2025-07-10 01:57:55,904 - INFO - Prepared data with 5485 samples.
+2025-07-10 01:57:55,905 - INFO - Starting max_features tuning...
+2025-07-10 01:57:57,222 - INFO - Best max_features: 1000 with average accuracy 0.9558
+2025-07-10 01:57:57,355 - INFO - Starting model training and evaluation...
+2025-07-10 01:57:57,355 - INFO - Training Model: Random Forest
+2025-07-10 01:57:57,953 - INFO - Model saved as 'document_classifier.pkl'
+2025-07-10 01:57:58,002 - INFO - Evaluation metrics for model RandomForestClassifier: {'Accuracy': 0.9434822242479489, 'F1 Score': 0.9435203000440942, 'Precision': 0.9452951773703065, 'Recall': 0.9434822242479489}
+2025-07-10 01:58:03,255 - INFO - 
+Classification Report for RandomForestClassifier:
+              precision    recall  f1-score   support
+
+           0       0.99      0.96      0.97       556
+           1       0.89      0.97      0.93       323
+           2       0.92      0.91      0.92        54
+           3       0.94      0.80      0.86        20
+           4       1.00      0.89      0.94         9
+           5       0.94      0.87      0.90        53
+           6       0.89      0.82      0.85        38
+           7       0.90      0.86      0.88        44
+
+    accuracy                           0.94      1097
+   macro avg       0.93      0.88      0.91      1097
+weighted avg       0.95      0.94      0.94      1097
+
+2025-07-10 01:58:03,256 - INFO - Evaluation metrics for Random Forest: {'Accuracy': 0.9434822242479489, 'F1 Score': 0.9435203000440942, 'Precision': 0.9452951773703065, 'Recall': 0.9434822242479489}
+2025-07-10 02:05:13,260 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 02:05:13,260 - INFO - preprocessing of labels and text.
+2025-07-10 02:05:13,264 - INFO - Preprocessing completed.
+2025-07-10 02:05:13,264 - INFO - Prepared data with 5485 samples.
+2025-07-10 02:05:13,265 - INFO - Starting max_features tuning...
+2025-07-10 02:05:13,265 - ERROR - Error during max_features optimization: cannot access local variable 'best_max_features' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gautamkumar/Desktop/GBM/Document Type Classifier/create_model.py", line 92, in find_best_max_features
+    tfidf_vectorizer = TfidfVectorizer(stop_words='english', max_features=best_max_features)
+                                                                          ^^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'best_max_features' where it is not associated with a value
+2025-07-10 02:05:49,421 - INFO - Preparing data: preprocessing and extracting features/labels.
+2025-07-10 02:05:49,421 - INFO - preprocessing of labels and text.
+2025-07-10 02:05:49,424 - INFO - Preprocessing completed.
+2025-07-10 02:05:49,424 - INFO - Prepared data with 5485 samples.
+2025-07-10 02:05:49,425 - INFO - Starting max_features tuning...
+2025-07-10 02:05:50,884 - INFO - Best max_features: 1000 with average accuracy 0.9558
+2025-07-10 02:05:51,017 - INFO - Starting model training and evaluation...
+2025-07-10 02:05:51,017 - INFO - Training Model: Random Forest
+2025-07-10 02:05:51,618 - INFO - Model saved as 'document_classifier.pkl'
+2025-07-10 02:05:51,666 - INFO - Evaluation metrics for model RandomForestClassifier: {'Accuracy': 0.9416590701914311, 'F1 Score': 0.9414336575562701, 'Precision': 0.9441761018633359, 'Recall': 0.9416590701914311}
+2025-07-10 02:05:54,945 - INFO - 
+Classification Report for RandomForestClassifier:
+              precision    recall  f1-score   support
+
+           0       0.99      0.96      0.97       556
+           1       0.89      0.98      0.93       323
+           2       0.94      0.93      0.93        54
+           3       0.94      0.80      0.86        20
+           4       1.00      0.89      0.94         9
+           5       0.92      0.87      0.89        53
+           6       0.93      0.71      0.81        38
+           7       0.83      0.86      0.84        44
+
+    accuracy                           0.94      1097
+   macro avg       0.93      0.87      0.90      1097
+weighted avg       0.94      0.94      0.94      1097
+
+2025-07-10 02:05:54,946 - INFO - Evaluation metrics for Random Forest: {'Accuracy': 0.9416590701914311, 'F1 Score': 0.9414336575562701, 'Precision': 0.9441761018633359, 'Recall': 0.9416590701914311}
+2025-07-10 02:11:56,210 - INFO - Best max_features = 1000 with accuracy = 0.9558
+2025-07-10 02:12:41,831 - INFO - Best max_features = 1000 with accuracy = 0.9558
+2025-07-10 02:12:42,576 - INFO - Random Forest model saved.
+2025-07-10 02:12:45,833 - INFO - Metrics: {'Accuracy': 0.9425706472196901, 'F1 Score': 0.9422614156611734, 'Precision': 0.9450765581830405, 'Recall': 0.9425706472196901}
+2025-07-10 02:23:11,439 - INFO - Best max_features = 1000 with accuracy = 0.9558
+2025-07-10 02:23:12,180 - INFO - Random Forest model saved.
+2025-07-10 02:23:16,018 - INFO - Metrics: {'Accuracy': 0.9389243391066545, 'F1 Score': 0.9389732314634478, 'Precision': 0.9410647908842659, 'Recall': 0.9389243391066545}
